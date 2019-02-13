@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Vokal Demo</string>
+    <string name="channel_name">vokal_demo_channel</string>
+</resources>
